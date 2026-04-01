@@ -4,7 +4,7 @@ This repository contains the implementation of "Prototype-Guided Memory for Sour
 ## Datasets
 Our paper assesses performance on  transfer tasks utilizing the cross-sensor dataset.
 * WHU-RS19 <-> EuroSAT
-#### Shared classes
+  
 #### Shared classes
 The tables below summarize the shared classes among all considered datasets and their corresponding label assignments.
 <table width="100%">
