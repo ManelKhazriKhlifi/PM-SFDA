@@ -25,7 +25,9 @@ The tables below summarize the shared classes among all considered datasets and 
 </tr>
 </table>
 ## Usage
+
 * Clone the Repository:
+
 ```ruby
   git clone https://github.com/ManelKhazriKhlifi/PM-SFDA.git
 ```
