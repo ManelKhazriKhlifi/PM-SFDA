@@ -1,9 +1,11 @@
 ## PM-SFDA 
 This repository contains the implementation of "Prototype-Guided Memory for Source-Free Remote Sensing Scene Classification" paper.
+
 In this work, we introduce a novel approach for source-free domain adaptation, termed __Prototype-Guided Memory for Source-Free Remote Sensing Scene Classification (PM-SFDA)__. This framework adapts a pre-trained source model to an unlabeled target domain without requiring access to source data, thereby addressing the challenges of domain shift in remote sensing scene classification.
 
 ## Results
-The bar chart presents the classification accuracy (%) on cross-sensor remote sensing (RS) image scene datasets for two source–target pairs. Each group of bars represents a specific method, while each bar within the group indicates the classification accuracy achieved on a given source–target transfer task (E2W, W2E, and Mean). Overall, the proposed method achieves a mean accuracy of 72.22%, outperforming state-of-the-art approaches by 2.88%
+The bar chart presents the classification accuracy (%) on cross-sensor remote sensing (RS) image scene datasets for two source–target pairs. Each group of bars represents a specific method, while each bar within the group indicates the classification accuracy achieved on a given source–target transfer task (E2W, W2E, and Mean). Overall, the proposed method achieves a mean accuracy of 72.22%, outperforming state-of-the-art approaches by 2.88%.
+
 ![Results](Results/accuracyResult.png)
 
 ## Datasets
