@@ -34,6 +34,7 @@ The tables below summarize the shared classes among all considered datasets and 
 </td>
 </tr>
 </table>
+
 ## Usage
 
 * Clone the Repository:
@@ -43,7 +44,7 @@ The tables below summarize the shared classes among all considered datasets and 
 ```
 ## Citation
 
-If you use any part of this work please cite using the following Bibtex format:
+If you use any part of this work, please cite it using the following BibTeX format:
 ```
 @Article {khelifi2026PM-SFDA,
 AUTHOR = {Manel Khazri Khelifi and Adel Ammar and Wadii Boulila and Imed Riadh Farah},
