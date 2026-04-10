@@ -1,5 +1,6 @@
 ## PM-SFDA 
 This repository contains the implementation of "Prototype-Guided Memory for Source-Free Remote Sensing Scene Classification" paper.
+In this work, we introduce a novel approach for source-free domain adaptation, termed __Prototype-Guided Memory for Source-Free Remote Sensing Scene Classification (PM-SFDA)__. This framework adapts a pre-trained source model to an unlabeled target domain without requiring access to source data, thereby addressing the challenges of domain shift in remote sensing scene classification.
 
 ## Datasets
 Our paper assesses performance on  transfer tasks utilizing the cross-sensor dataset.
