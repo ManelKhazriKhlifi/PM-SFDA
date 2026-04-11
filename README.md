@@ -5,18 +5,17 @@ In this work, we introduce a novel approach for source-free domain adaptation, t
 
 ## Results
 The bar chart presents the classification accuracy (%) on cross-sensor remote sensing (RS) image scene datasets for two source–target pairs. Each group of bars represents a specific method, while each bar within the group indicates the classification accuracy achieved on a given source–target transfer task (E2W, W2E, and Mean). Overall, the proposed method achieves a mean accuracy of 72.22%, outperforming state-of-the-art approaches by 2.88%.
-<td valign="top" width="33%">
+
 | Method   | E2W  | W2E  | Mean |
 |----------|------|------|------|
 | SHOT     | 88.05 | 41.24 | 64.65 |
 | CoWA     | 81.63 | 57.05 | 69.34 |
 | **PM-SFDA** | **83.33** | **61.11** | **72.22** |
-<\td>
-<td valign="top" width="33%">
+
 <p align="center">
   <img src="Results/accuracyResult.png" width="60%">
 </p>
-<\td>
+
 ## Datasets
 Our paper assesses performance on  transfer tasks utilizing the cross-sensor dataset.
 * WHU-RS19 (W) -> EuroSAT (E) => W2E
