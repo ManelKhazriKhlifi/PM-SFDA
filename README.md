@@ -42,17 +42,17 @@ The tables below summarize the shared classes among all considered datasets and 
 </table>
 
 ## Project Structure
-
+```
 PM-SFDA/
 
-│── notebooks/
+│- notebooks/
 
-│ └── PM_SFDA.ipynb
+│ |- PM_SFDA.ipynb
 
-│── Results/
+│- Results/
 
-│── README.md
-
+│- README.md
+```
 ## Usage
 
 * Clone the Repository:
